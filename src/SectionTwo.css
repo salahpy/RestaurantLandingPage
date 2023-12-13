@@ -1,0 +1,38 @@
+.sec2{
+    display: flex;
+    margin-top: 150px;
+}
+
+.pic{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+img{
+    max-width: 80%;
+}
+
+.sec2 .text{
+    flex: 1;
+}
+
+.sec2 .text h1{
+    font-size: 70px;   
+}
+
+.sec2 .text h5{
+    font-size: 30px;
+    opacity: 70%;   
+}
+
+.sec2 .text button{
+    border: none;
+    color: aliceblue;
+    border-radius: 50px;
+    padding: 25px 43px;
+    font-weight: 600;
+    font-size: 40px;
+    background-color: #FE9E0D;
+}

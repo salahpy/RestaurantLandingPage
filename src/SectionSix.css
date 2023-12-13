@@ -1,0 +1,60 @@
+.container6{
+    display: block;
+    margin-top: 300px;
+}
+
+.qst{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.comment{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(228, 242, 243);
+    margin-top: 150px;
+    padding: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 50px;
+}
+
+.title{
+    color: #F4980D;
+    font-size: 25px;
+}
+
+.bigtitle{
+    color: #4C4C4C;
+    font-size: 60px;
+}
+
+.bs{
+    color: #828282;
+    font-size: 25px;
+}
+
+.pdp{
+    height: 117px;
+    width: 117px;
+}
+
+.name{
+    margin-top: 30px;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.stars{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.str{
+    height: 40px;
+    width: 40px;
+    margin: 0px 5px;
+}

@@ -1,0 +1,33 @@
+.sec4{
+    margin-top: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.intro{
+    text-align: center;
+    width: 60%;
+}
+
+.intro p{
+    text-align: center;
+    color: #FE9E0D;
+    font-size: 35px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.intro h1{
+    margin: 0;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: 2px;
+}
+
+.intro h5{
+    text-align: center;
+    font-size: 25px;
+    opacity: 70%;;
+    font-size: 30px;
+}

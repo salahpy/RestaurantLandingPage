@@ -1,0 +1,22 @@
+.etiq{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(228, 242, 243);
+    border-radius: 20px;
+    padding: 60px 60px;
+}
+
+.etiq .title{
+    font-size: 30px;
+    font-weight: 650;
+    opacity: 70%;
+}
+
+.etiq .details{
+    font-size: 20px;
+    opacity: 70%;
+}

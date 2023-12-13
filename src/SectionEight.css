@@ -1,0 +1,36 @@
+.cont8{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 300px;
+    margin-bottom: 150px;
+}
+
+.s8{
+    margin: 15px;
+}
+
+.title8{
+    font-size: 35px;
+    color: #303030;
+    align-self: flex-start;
+    font-weight: 500;
+    margin: 15px;
+    margin-top: 0;
+}
+
+.infos{
+    display: flex;
+    align-self: flex-start;
+    font-size: 20px;
+    color: #4C4C4C;
+    font-weight: 700;
+}
+
+.terms, .contacts8, .conditions{
+    margin: 60px;
+    margin-top: 0;
+}
+
+.mt{
+    margin-top: 0;
+}

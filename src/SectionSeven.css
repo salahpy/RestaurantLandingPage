@@ -1,0 +1,38 @@
+.title7-1{
+    color: #4C4C4C;
+    font-size: 60px;
+    text-align: center;
+}
+
+.container7{
+    margin-top: 350px;
+}
+
+.field{
+    margin-top: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 120px 250px;
+    background-color: rgb(228, 242, 243);
+    padding: 50px;
+    border-radius: 100px;
+}
+
+.urmail{
+    font-size: 30px;
+    color: #8D8D8D;
+    border: none;
+    background-color: rgb(228, 242, 243);
+}
+
+.submit{
+    background-color: #FE9E0D;
+    color: antiquewhite;
+    width: 280px;
+    height: 90px;
+    border-radius: 100px;
+    border: none;
+    font-size: 25px;
+    font-weight: bold;
+}
